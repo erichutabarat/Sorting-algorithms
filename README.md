@@ -1,2 +1,3 @@
-# Sorting logic
-Simpel program untuk mengecek kecepatan sorting logic pada bahasa C++.
+# Sorting Algorithms
+Simpel program untuk mengecek kecepatan program menyortir sebuah array.
+
